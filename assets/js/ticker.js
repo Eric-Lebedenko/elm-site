@@ -2,7 +2,7 @@
 // === Investor Mode Ticker ===
 window.ELM = window.ELM || {};
 (function(){
-  const API_KEY = "NBFgwNCFEcgqCzgHG0sOdTea4TZxhnFr"; // keep/change as needed
+  const API_KEY = "YOUR_KEY"; // keep/change as needed
   const symbols = "GOLD,JNJ,DIA,PR,GS,BA,GD,LHX,NOC,MHPC,FOPO,SAP,DHR,AAPL,LMT,MCO,OXY,CVX,KO,BAC,AXP,TSLA,AMZN,MSFT";
   let intervalId = null;
 
