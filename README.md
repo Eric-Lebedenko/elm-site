@@ -35,7 +35,8 @@ For GitHub Pages, push to a repository and enable Pages (root).
 - **Anti-copy/devtools**: kept as in your code (not secure, only obfuscation).
 
 © 2025 ERIC L. MORGAN
+🌐 https://ericlmorgan.com
 #   e l m - s i t e 
-#https://ericlmorgan.com
+
  
  
