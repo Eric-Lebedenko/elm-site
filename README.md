@@ -6,10 +6,6 @@ This repo is a clean multi-file refactor of your original single-file HTML.
 ```
 .
 ├─ index.html                 # Main page (sections: hero, platform, about, documents, contact)
-├─ pages/                     # (optional) standalone demo pages
-│  ├─ about.html
-│  ├─ documents.html
-│  └─ contact.html
 ├─ assets/
 │  ├─ css/styles.css          # All styles
 │  ├─ js/
