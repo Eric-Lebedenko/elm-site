@@ -34,6 +34,12 @@ For GitHub Pages, push to a repository and enable Pages (root).
 - **Form**: uses Formspree endpoint from your original file: `https://formspree.io/f/xvgzwwqz`.
 - **Anti-copy/devtools**: kept as in your code (not secure, only obfuscation).
 
+## License
+Copyright © 2025 Eric L. Morgan. All rights reserved.  
+This project is licensed under a **Custom Prohibition License**.
+
+You may **not** use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software without prior written permission from the copyright holder.
+
 © 2025 ERIC L. MORGAN
 🌐 https://ericlmorgan.com
 #   e l m - s i t e 
