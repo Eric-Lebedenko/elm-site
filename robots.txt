@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eric-lebedenko.github.io/sitemap.xml
