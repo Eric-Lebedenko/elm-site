@@ -36,5 +36,6 @@ For GitHub Pages, push to a repository and enable Pages (root).
 
 © 2025 ERIC L. MORGAN
 #   e l m - s i t e 
+#https://ericlmorgan.com
  
  
